@@ -121,4 +121,4 @@ An honest accounting, because this is not free:
 
 ---
 
-<sub>This pattern is drawn from a working system, not a thought experiment — see [a showcase of it running](https://github.com/itsmk91/workspace).</sub>
+<sub>by Workspace Labs · This pattern is drawn from a working system, not a thought experiment — see [a showcase of it running](https://github.com/itsmk91/workspace).</sub>
